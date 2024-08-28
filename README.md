@@ -60,3 +60,4 @@ Utilized pre-trained models like Resnet-18 and VGG-13 for feature extraction and
 - Hyperparameter Tuning: Experimenting with different values could optimize results.
 - Initialization Schemes: Testing various weight initialization methods could improve model stability.
 
+https://github.com/EngrIBGIT/Computer-Vision-for-Cassava-Disease-Detection/blob/main/Computer%20Vision%20for%20Cassava%20Disease%20Detection.ipynb
